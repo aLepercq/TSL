@@ -1,2 +1,2 @@
 # TSL
-Find the time spent on LoL
+Time spent on LoL
